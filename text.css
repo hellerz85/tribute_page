@@ -20,3 +20,11 @@ p {
 ul {
     font-size: 18px;
 }
+img.resize {
+    max-width: 5%;
+    max-height: 5%;
+}
+img.resize2 {
+    max-width: 50%;
+    max-height: 50%;
+}
