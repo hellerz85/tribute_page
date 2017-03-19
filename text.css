@@ -1,0 +1,22 @@
+body {
+    margin-top: 60px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+    background-color: ffffff;
+}
+h1 {
+    font-size: 50px;
+    color: #404040;
+    font-family: "Oswald", sans serif;
+}
+h2 {
+    color: #333333;
+    font-family: "Oswald", sans serif;
+}
+p {
+    font-size: 18px;
+}
+ul {
+    font-size: 18px;
+}
